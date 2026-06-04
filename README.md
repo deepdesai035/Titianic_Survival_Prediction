@@ -4,7 +4,7 @@
 
 This project explores the famous Titanic dataset and applies Machine Learning techniques to predict passenger survival based on demographic and travel information.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.13.5-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-red)
@@ -67,7 +67,7 @@ Some interesting insights discovered during analysis:
 ### Survival by Gender
 
 <p align="center">
-  <img src="images/gender_survival.png" width="500">
+  <img src="images/survival_by_gender.png" width="500">
 </p>
 
 ---
